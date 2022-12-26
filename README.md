@@ -1,3 +1,3 @@
 # XteamBgst
 
-Readme.txt
+Main.py
